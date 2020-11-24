@@ -1,0 +1,165 @@
+BER Performance of TURBO EQUALIZATION in ISI Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Equalizer: MLSE Equalizer with SOVA Algorithm
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+Number of bits of simulation = 102400
+Iterations of Turbo Equalization = 1
+
+Eb/No     BER
+0.000000 3.506641e-01 3.525000e-01 
+5.000000 1.742871e-01 1.685938e-01 
+10.000000 3.611328e-02 3.040039e-02 
+15.000000 3.496094e-03 2.539063e-03 
+20.000000 9.765625e-06 9.765625e-06 
+25.000000 0.000000e+00 0.000000e+00 
+30.000000 0.000000e+00 0.000000e+00 
+
+Total elapsed time: 1059(sec)
+
+BER Performance of TURBO EQUALIZATION in ISI Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Equalizer: MLSE Equalizer with SOVA Algorithm
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+03 (bps)
+f_d * t = 0.222222
+Number of bits of simulation = 102400
+Iterations of Turbo Equalization = 4
+
+Eb/No     BER
+BER Performance of TURBO EQUALIZATION in ISI Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Equalizer: MLSE Equalizer with SOVA Algorithm
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+03 (bps)
+f_d * t = 0.222222
+Number of bits of simulation = 102400
+Iterations of Turbo Equalization = 1
+
+Eb/No     BER
+5.000000 1.669922e-03 1.474609e-03 
+10.000000 0.000000e+00 0.000000e+00 
+
+Total elapsed time: 317(sec)
+
+BER Performance of TURBO EQUALIZATION in ISI Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Equalizer: MLSE Equalizer with SOVA Algorithm
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+03 (bps)
+f_d * t = 0.222222
+Number of bits of simulation = 10240000
+Iterations of Turbo Equalization = 4
+
+Eb/No     BER
+0.000000 1.691903e-01 1.722339e-01 1.722944e-01 1.723010e-01 1.723005e-01 
+1.000000 1.058587e-01 1.069436e-01 1.069122e-01 1.069054e-01 1.069058e-01 
+2.000000 5.517422e-02 5.478311e-02 5.470918e-02 5.470654e-02 5.470645e-02 
+3.000000 2.280186e-02 2.192227e-02 2.187002e-02 2.186533e-02 2.186475e-02 
+4.000000 7.465527e-03 6.845996e-03 6.811621e-03 6.809668e-03 6.809668e-03 
+5.000000 1.877148e-03 1.621680e-03 1.608594e-03 1.608105e-03 1.608105e-03 
+6.000000 3.710938e-04 2.992188e-04 2.924805e-04 2.920898e-04 2.920898e-04 
+7.000000 6.142578e-05 4.433594e-05 4.335938e-05 4.316406e-05 4.316406e-05 
+8.000000 7.617188e-06 4.492187e-06 4.296875e-06 4.296875e-06 4.296875e-06 
+9.000000 1.171875e-06 3.906250e-07 3.906250e-07 3.906250e-07 3.906250e-07 
+10.000000 1.953125e-07 1.953125e-07 1.953125e-07 1.953125e-07 1.953125e-07 
+
+Total elapsed time: 138823(sec)
+
+BER Performance of TURBO EQUALIZATION in ISI Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Equalizer: MLSE Equalizer with SOVA Algorithm
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+Number of bits of simulation = 10240000
+Iterations of Turbo Equalization = 4
+
+Eb/No     BER
+0.000000 1.788514e-01 1.817109e-01 1.817275e-01 1.817307e-01 1.817334e-01 
+1.000000 1.330340e-01 1.345856e-01 1.345711e-01 1.345715e-01 1.345728e-01 
+2.000000 9.312070e-02 9.355781e-02 9.350459e-02 9.349785e-02 9.349844e-02 
+3.000000 6.153057e-02 6.122070e-02 6.115684e-02 6.115459e-02 6.115420e-02 
+4.000000 3.822813e-02 3.758447e-02 3.751650e-02 3.751484e-02 3.751465e-02 
+5.000000 2.237354e-02 2.164775e-02 2.159502e-02 2.159199e-02 2.159150e-02 
+6.000000 1.246699e-02 1.184424e-02 1.180283e-02 1.180146e-02 1.180049e-02 
+7.000000 6.567383e-03 6.117383e-03 6.083496e-03 6.080664e-03 6.079980e-03 
+8.000000 3.257324e-03 2.940039e-03 2.911621e-03 2.906543e-03 2.905762e-03 
+9.000000 1.537988e-03 1.358691e-03 1.344922e-03 1.340137e-03 1.340234e-03 
+10.000000 6.891602e-04 5.787109e-04 5.642578e-04 5.629883e-04 5.626953e-04 
+
+Total elapsed time: 137925(sec)
+
+BER Performance of TURBO EQUALIZATION in ISI Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Equalizer: MLSE Equalizer with SOVA Algorithm
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+03 (bps)
+f_d * t = 0.222222
+Number of bits of simulation = 10240000
+Iterations of Turbo Equalization = 4
+
+Eb/No     BER
+0.000000 1.688245e-01 1.718940e-01 1.719013e-01 1.719100e-01 1.719120e-01 
+1.000000 1.069180e-01 1.080739e-01 1.080219e-01 1.080235e-01 1.080227e-01 
+2.000000 5.496074e-02 5.457236e-02 5.451816e-02 5.451934e-02 5.451904e-02 
+3.000000 2.298320e-02 2.210938e-02 2.205137e-02 2.204893e-02 2.204902e-02 
+4.000000 7.428906e-03 6.810840e-03 6.774512e-03 6.772852e-03 6.772754e-03 
+5.000000 1.906934e-03 1.639746e-03 1.626660e-03 1.626074e-03 1.626074e-03 
+6.000000 3.950195e-04 3.133789e-04 3.072266e-04 3.068359e-04 3.068359e-04 
+7.000000 6.718750e-05 4.804688e-05 4.726563e-05 4.726563e-05 4.726563e-05 
+8.000000 8.007813e-06 5.078125e-06 4.980469e-06 4.980469e-06 4.980469e-06 
+9.000000 8.789063e-07 6.835937e-07 6.835937e-07 6.835937e-07 6.835937e-07 
+10.000000 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 
+
+Total elapsed time: 187481(sec)
+

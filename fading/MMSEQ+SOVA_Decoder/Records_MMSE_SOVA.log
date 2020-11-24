@@ -1,0 +1,614 @@
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 51200
+
+Eb/No     BER
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 51200
+
+Eb/No     BER
+0.000000 2.495117e-01
+5.000000 2.509082e-01
+10.000000 2.480469e-01
+
+Total elapsed time: 16(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 51200
+
+Eb/No     BER
+0.000000 2.502246e-01
+5.000000 2.487500e-01
+10.000000 2.486426e-01
+15.000000 2.461816e-01
+20.000000 2.506445e-01
+25.000000 2.491309e-01
+30.000000 2.482520e-01
+
+Total elapsed time: 38(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 51200
+
+Eb/No     BER
+0.000000 4.903711e-01 4.955469e-01
+5.000000 5.086719e-01 4.956250e-01
+10.000000 4.169922e-03 4.969531e-01
+
+Total elapsed time: 35(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1024000
+
+Eb/No     BER
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 102400
+
+Eb/No     BER
+0.000000 4.951074e-01 5.009082e-01
+5.000000 5.014746e-01 5.007324e-01
+10.000000 4.443359e-03 4.966895e-01
+
+Total elapsed time: 67(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1024000
+
+Eb/No     BER
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 102400
+
+Eb/No     BER
+0.000000 1.640332e-01 4.970215e-01
+5.000000 3.934082e-02 5.001367e-01
+10.000000 7.714844e-04 4.964941e-01
+
+Total elapsed time: 67(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 102400
+
+Eb/No     BER
+0.000000 1.647021e-01 4.985059e-01
+5.000000 3.951660e-02 4.958008e-01
+10.000000 6.835938e-04 4.977637e-01
+
+Total elapsed time: 67(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 102400
+
+Eb/No     BER
+0.000000 1.647412e-01 1.046973e-01
+5.000000 3.837402e-02 1.074219e-04
+10.000000 7.324219e-04 0.000000e+00
+
+Total elapsed time: 68(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1024000
+
+Eb/No     BER
+0.000000 1.643271e-01 1.041035e-01
+2.000000 1.074702e-01 1.607227e-02
+4.000000 5.798193e-02 6.191406e-04
+6.000000 2.363184e-02 6.835938e-06
+8.000000 6.167969e-03 0.000000e+00
+10.000000 7.841797e-04 0.000000e+00
+
+Total elapsed time: 1377(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.210, 0.955, 0.210}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 102400
+
+Eb/No     BER
+0.000000 2.950049e-01 3.842285e-01
+2.000000 2.177930e-01 2.304297e-01
+4.000000 1.019580e-01 1.242188e-02
+6.000000 5.014160e-02 2.539063e-04
+8.000000 1.859375e-02 0.000000e+00
+10.000000 4.716797e-03 0.000000e+00
+
+Total elapsed time: 141(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 102400
+
+Eb/No     BER
+0.000000 1.655029e-01 1.081152e-01
+2.000000 1.071924e-01 1.717773e-02
+4.000000 5.855957e-02 8.105469e-04
+6.000000 2.381348e-02 3.906250e-05
+8.000000 6.376953e-03 0.000000e+00
+10.000000 7.031250e-04 0.000000e+00
+
+Total elapsed time: 148(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.210, 0.955, 0.210}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 102400
+
+Eb/No     BER
+0.000000 3.218750e-01 4.219043e-01
+2.000000 2.006250e-01 1.896777e-01
+4.000000 1.006396e-01 1.144531e-02
+6.000000 4.925781e-02 4.687500e-04
+8.000000 1.937988e-02 9.765625e-06
+10.000000 4.746094e-03 0.000000e+00
+
+Total elapsed time: 137(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.407, 0.815, 0.407}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 102400
+
+Eb/No     BER
+0.000000 3.133594e-01 4.137695e-01
+2.000000 2.931104e-01 3.811914e-01
+4.000000 2.402002e-01 2.819824e-01
+6.000000 2.115527e-01 1.900293e-01
+8.000000 1.968701e-01 1.284766e-01
+10.000000 1.149316e-01 1.012695e-02
+
+Total elapsed time: 139(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.407, 0.815, 0.407}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 102400
+
+Eb/No     BER
+10.000000 1.147754e-01 1.045898e-02
+12.000000 7.580078e-02 1.640625e-03
+14.000000 5.473145e-02 1.953125e-04
+16.000000 4.071289e-02 3.906250e-05
+18.000000 2.845703e-02 0.000000e+00
+20.000000 2.080078e-02 0.000000e+00
+
+Total elapsed time: 139(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 30.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 55.555556 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000056
+number of bits of simulation = 102400
+
+Eb/No     BER
+10.000000 5.420020e-01 4.592188e-01
+12.000000 4.577979e-01 4.520996e-01
+14.000000 4.559082e-01 4.521289e-01
+16.000000 2.763672e-03 8.789062e-05
+18.000000 1.118164e-03 0.000000e+00
+20.000000 3.515625e-04 0.000000e+00
+
+Total elapsed time: 461(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 30.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 55.555556 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000056
+number of bits of simulation = 102400
+
+Eb/No     BER
+14.000000 8.862305e-03 1.582031e-03
+16.000000 2.719727e-03 1.660156e-04
+18.000000 1.108398e-03 0.000000e+00
+20.000000 4.248047e-04 0.000000e+00
+22.000000 9.765625e-05 0.000000e+00
+24.000000 1.464844e-05 0.000000e+00
+26.000000 9.765625e-06 0.000000e+00
+28.000000 0.000000e+00 0.000000e+00
+30.000000 0.000000e+00 0.000000e+00
+
+Total elapsed time: 684(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1024000
+
+Eb/No     BER
+0.000000 1.647466e-01 1.051875e-01
+2.000000 1.073809e-01 1.628320e-02
+4.000000 5.838037e-02 7.373047e-04
+6.000000 2.359473e-02 9.765625e-06
+8.000000 6.224121e-03 0.000000e+00
+10.000000 7.788086e-04 0.000000e+00
+
+Total elapsed time: 674(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.210, 0.955, 0.210}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1024000
+
+Eb/No     BER
+0.000000 3.181621e-01 4.184717e-01
+2.000000 2.268223e-01 2.508320e-01
+4.000000 1.031724e-01 1.186621e-02
+6.000000 4.995313e-02 2.802734e-04
+8.000000 1.911523e-02 1.953125e-06
+10.000000 4.682129e-03 0.000000e+00
+
+Total elapsed time: 651(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.000, 1.000, 0.000}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 10240000
+
+Eb/No     BER
+3.000000 8.111572e-02 4.011230e-03
+5.000000 3.863472e-02 8.896484e-05
+7.000000 1.293315e-02 3.906250e-07
+9.000000 2.485254e-03 0.000000e+00
+11.000000 1.981445e-04 0.000000e+00
+13.000000 1.855469e-06 0.000000e+00
+15.000000 0.000000e+00 0.000000e+00
+
+Total elapsed time: 7598(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.210, 0.955, 0.210}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 10240000
+
+Eb/No     BER
+3.000000 1.443758e-01 5.862627e-02
+5.000000 7.328408e-02 2.224219e-03
+7.000000 3.234258e-02 3.505859e-05
+9.000000 1.002642e-02 2.929688e-07
+11.000000 1.786035e-03 0.000000e+00
+13.000000 1.286133e-04 0.000000e+00
+15.000000 1.269531e-06 0.000000e+00
+
+Total elapsed time: 7522(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.407, 0.815, 0.407}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1024000
+
+Eb/No     BER
+3.000000 2.894595e-01 3.745049e-01
+5.000000 2.227432e-01 2.305850e-01
+7.000000 2.029390e-01 1.574795e-01
+9.000000 1.995474e-01 1.177090e-01
+11.000000 8.946973e-02 3.387695e-03
+13.000000 6.466992e-02 6.708984e-04
+15.000000 4.714111e-02 1.035156e-04
+
+Total elapsed time: 755(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.407, 0.815, 0.407}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 10240000
+
+Eb/No     BER
+8.000000 1.991129e-01 1.311720e-01
+10.000000 2.019756e-01 1.081118e-01
+12.000000 7.589048e-02 1.388672e-03
+14.000000 5.478154e-02 2.585938e-04
+16.000000 3.984082e-02 4.433594e-05
+18.000000 2.859966e-02 8.007813e-06
+20.000000 2.005122e-02 2.148438e-06
+
+Total elapsed time: 7555(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) with coding in Multipath Fading Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: Viterbi Decoder with SOVA algprithm
+Interleaver: S-random interleaver with S = 16
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Equalizer: Adaptive MMSE Equalizer with RLS Algorithm
+Speed of the vehicle = 30.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 55.555556 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000056
+number of bits of simulation = 10240000
+
+Eb/No     BER
+13.000000 5.066936e-01 4.455122e-01
+15.000000 4.745452e-01 4.355564e-01
+17.000000 5.858528e-01 4.019729e-01
+19.000000 4.966373e-01 4.414320e-01
+21.000000 3.723145e-04 5.761719e-06
+23.000000 1.565918e-04 1.660156e-06
+25.000000 7.426758e-05 0.000000e+00
+
+Total elapsed time: 22419(sec)
+

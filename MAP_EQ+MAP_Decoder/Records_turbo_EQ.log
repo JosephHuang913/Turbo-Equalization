@@ -1,0 +1,163 @@
+BER Performance of TURBO EQUALIZATION in ISI Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Channel Impulse Response: {0.407,0.815,0.407}
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 1024000
+Iterations of Turbo Equalization = 0
+
+Eb/No     BER
+-2.000000 3.235635e-01
+-1.000000 2.898369e-01
+0.000000 2.483105e-01
+1.000000 2.040996e-01
+2.000000 1.577744e-01
+3.000000 1.092109e-01
+4.000000 6.517773e-02
+5.000000 3.044824e-02
+6.000000 1.016699e-02
+7.000000 1.962891e-03
+8.000000 2.597656e-04
+9.000000 1.269531e-05
+10.000000 4.882813e-06
+
+Total elapsed time: 365(sec)
+
+BER Performance of TURBO EQUALIZATION in ISI Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Channel Impulse Response: {0.407,0.815,0.407}
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 1024000
+Iterations of Turbo Equalization = 1
+
+Eb/No     BER
+-2.000000 3.210186e-01
+-1.000000 2.846680e-01
+0.000000 2.387646e-01
+1.000000 1.840566e-01
+2.000000 1.163506e-01
+3.000000 4.968359e-02
+4.000000 9.775391e-03
+5.000000 8.027344e-04
+6.000000 3.906250e-05
+7.000000 0.000000e+00
+8.000000 0.000000e+00
+9.000000 0.000000e+00
+10.000000 0.000000e+00
+
+Total elapsed time: 664(sec)
+
+BER Performance of TURBO EQUALIZATION in ISI Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Channel Impulse Response: {0.407,0.815,0.407}
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 1024000
+Iterations of Turbo Equalization = 2
+
+Eb/No     BER
+-2.000000 3.222871e-01
+-1.000000 2.833164e-01
+0.000000 2.388145e-01
+1.000000 1.792998e-01
+2.000000 1.011143e-01
+3.000000 2.582715e-02
+4.000000 2.026367e-03
+5.000000 1.289063e-04
+6.000000 9.765625e-06
+7.000000 0.000000e+00
+8.000000 0.000000e+00
+9.000000 0.000000e+00
+10.000000 0.000000e+00
+
+Total elapsed time: 971(sec)
+
+BER Performance of TURBO EQUALIZATION in ISI Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Channel Impulse Response: {0.407,0.815,0.407}
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 1024000
+Iterations of Turbo Equalization = 10
+
+Eb/No     BER
+-2.000000 3.225371e-01
+-1.000000 2.850576e-01
+0.000000 2.394961e-01
+1.000000 1.779170e-01
+2.000000 9.043848e-02
+3.000000 8.625977e-03
+4.000000 7.636719e-04
+5.000000 1.005859e-04
+6.000000 4.882813e-06
+7.000000 0.000000e+00
+8.000000 0.000000e+00
+9.000000 0.000000e+00
+10.000000 0.000000e+00
+
+Total elapsed time: 3397(sec)
+
+BER Performance of TURBO EQUALIZATION in ISI Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Channel Impulse Response: {0.407,0.815,0.407}
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 1024000
+Iterations of Turbo Equalization = 10
+
+Eb/No     BER
+-2.000000 3.220283e-01
+-1.000000 2.847275e-01
+0.000000 2.406123e-01
+1.000000 1.785400e-01
+2.000000 9.267383e-02
+3.000000 8.217773e-03
+4.000000 7.880859e-04
+5.000000 7.226562e-05
+6.000000 2.929688e-06
+7.000000 1.953125e-06
+8.000000 0.000000e+00
+9.000000 0.000000e+00
+10.000000 0.000000e+00
+
+Total elapsed time: 3244(sec)
+
+BER Performance of TURBO EQUALIZATION in ISI Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Channel Impulse Response: {0.407,0.815,0.407}
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 1024000
+Iterations of Turbo Equalization = 10
+
+Eb/No     BER
+BER Performance of TURBO EQUALIZATION in ISI Channel
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Channel Impulse Response: {0.407,0.815,0.407}
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 10240000
+Iterations of Turbo Equalization = 10
+
+Eb/No     BER

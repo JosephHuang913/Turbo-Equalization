@@ -1,0 +1,164 @@
+BER Performance of TURBO EQUALIZATION in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+05 (bps)
+f_d * t = 0.002222
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 102400
+Iterations of Turbo Equalization = 1
+
+Eb/No     BER
+5.000000 4.101563e-03 2.851562e-03 
+10.000000 3.906250e-05 2.929687e-05 
+
+Total elapsed time: 130(sec)
+
+BER Performance of TURBO EQUALIZATION in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+05 (bps)
+f_d * t = 0.002222
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 1024000
+Iterations of Turbo Equalization = 1
+
+Eb/No     BER
+5.000000 4.877930e-03 3.041016e-03 
+10.000000 2.929688e-06 0.000000e+00 
+
+Total elapsed time: 1298(sec)
+
+BER Performance of TURBO EQUALIZATION in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+03 (bps)
+f_d * t = 0.222222
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 10240000
+Iterations of Turbo Equalization = 4
+
+Eb/No     BER
+0.000000 1.513873e-01 1.403366e-01 1.393553e-01 1.392717e-01 1.392675e-01 
+1.000000 9.385605e-02 7.866904e-02 7.694023e-02 7.671729e-02 7.667217e-02 
+2.000000 4.879053e-02 3.415781e-02 3.262764e-02 3.243447e-02 3.241357e-02 
+3.000000 2.007725e-02 1.118564e-02 1.057793e-02 1.052744e-02 1.051650e-02 
+4.000000 6.630566e-03 2.924902e-03 2.828418e-03 2.824609e-03 2.824414e-03 
+5.000000 1.707715e-03 6.246094e-04 6.066406e-04 6.074219e-04 6.081055e-04 
+6.000000 3.538086e-04 1.186523e-04 1.174805e-04 1.174805e-04 1.174805e-04 
+7.000000 6.826172e-05 2.226563e-05 2.197266e-05 2.197266e-05 2.197266e-05 
+8.000000 9.570312e-06 3.417969e-06 3.417969e-06 3.417969e-06 3.417969e-06 
+9.000000 1.562500e-06 5.859375e-07 5.859375e-07 5.859375e-07 5.859375e-07 
+10.000000 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 
+
+Total elapsed time: 45944(sec)
+
+BER Performance of TURBO EQUALIZATION in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 10240000
+Iterations of Turbo Equalization = 4
+
+Eb/No     BER
+0.000000 1.638986e-01 1.572018e-01 1.564463e-01 1.563319e-01 1.562945e-01 
+1.000000 1.203239e-01 1.126721e-01 1.118356e-01 1.116931e-01 1.116593e-01 
+2.000000 8.361826e-02 7.617900e-02 7.542422e-02 7.524521e-02 7.520898e-02 
+3.000000 5.483652e-02 4.865635e-02 4.797510e-02 4.785430e-02 4.781406e-02 
+4.000000 3.408291e-02 2.929951e-02 2.878242e-02 2.870127e-02 2.866914e-02 
+5.000000 1.992031e-02 1.649297e-02 1.613779e-02 1.607715e-02 1.606553e-02 
+6.000000 1.102148e-02 8.829688e-03 8.601465e-03 8.571094e-03 8.560449e-03 
+7.000000 5.717090e-03 4.384863e-03 4.277832e-03 4.259277e-03 4.254883e-03 
+8.000000 2.906152e-03 2.150977e-03 2.074707e-03 2.073535e-03 2.070410e-03 
+9.000000 1.354004e-03 1.004492e-03 9.816406e-04 9.731445e-04 9.683594e-04 
+10.000000 6.178711e-04 4.291992e-04 4.195313e-04 4.158203e-04 4.156250e-04 
+
+Total elapsed time: 46736(sec)
+
+BER Performance of TURBO EQUALIZATION in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 10240000
+Iterations of Turbo Equalization = 4
+
+Eb/No     BER
+BER Performance of TURBO EQUALIZATION in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 10240000
+Iterations of Turbo Equalization = 4
+
+Eb/No     BER
+BER Performance of TURBO EQUALIZATION in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Coding Scheme: (2,1,2) Convolutional Code
+Generator polynomials are {5,7} in Octal
+Minimum free distance = 5
+Decoder: MAP Decoder with modified BCJR algprithm
+Interleaver: S-random interleaver with S = 16
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+Equalizer: MAP Equalizer with modified BCJR Algorithm
+Number of bits of simulation = 10240000
+Iterations of Turbo Equalization = 4
+
+Eb/No     BER
